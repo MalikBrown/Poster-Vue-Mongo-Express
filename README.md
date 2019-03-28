@@ -1,4 +1,4 @@
-# poster_vue_mongo_express
+# Poster-Vue-Mongo-Express
 Example of a fullstack app using Vue.js, Express and MongoDB.
 
 ```
